@@ -365,4 +365,5 @@ Breaking changes:
 # Next
 
 * Fix: Bug introduced by removal of `Sequelize.Utils._` in Sequelize v4.11.0 (closes #142)
+* Update DB lib dev dependencies to same versions as Sequelize v4.28.6
 * Update dev dependencies
